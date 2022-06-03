@@ -1,0 +1,13 @@
+.bigred{font-size: 35px;
+    color: rgb(255, 60, 60);
+
+}
+.big{font-style: oblique;
+font-size: 30px;
+color: rgb(255, 60, 60);
+font-weight: bolder;}
+span{font-size: 25px;
+font-weight: lighter;}
+li{ 
+font-weight: bold;
+font-size: 30;}
