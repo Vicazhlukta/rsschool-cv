@@ -3,6 +3,7 @@
 
 }
 .big{font-style: oblique;
+    
 font-size: 30px;
 color: rgb(255, 60, 60);
 font-weight: bolder;}
@@ -11,3 +12,12 @@ font-weight: lighter;}
 li{ 
 font-weight: bold;
 font-size: 30;}
+.photo{
+width: 500px;}
+.vi{
+    
+    border: 5px solid rgb(245, 17, 17); 
+   
+   
+   
+}

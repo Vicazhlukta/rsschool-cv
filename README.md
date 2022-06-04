@@ -1,1 +1,2 @@
-https://Vicazhlukta.github.io/rsschool-cv/cv
+https://Vicazhlukta.github.io/rsschool-cv-html/index
+
